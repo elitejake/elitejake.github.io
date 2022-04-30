@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: elitejake
+description: How's it going?
+
+github:
+  github: https://github.com/elitejake
+  matrix: https://matrix.to/#/@elitejake:matrix.org
+  mastodon: https://mastodon.social/@elitejake
