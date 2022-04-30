@@ -3,6 +3,8 @@ theme: jekyll-theme-cayman
 title: elitejake
 description: How's it going?
 
+show_downloads: true
+
 github:
   github: https://github.com/elitejake
   matrix: https://matrix.to/#/@elitejake:matrix.org
